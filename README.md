@@ -1,4 +1,4 @@
-# whats-next-on[Whats-Next-On-README (1).md](https://github.com/user-attachments/files/33272665/Whats-Next-On-README.1.md)
+# whats-next-on[Whats-Next-On-README
 # What's Next On — Entertainment Discovery
 
 **Live website:** https://whatsnexton.com/  
