@@ -1,4 +1,4 @@
-# whats-next-on[Whats-Next-On-README
+# whats-next-on
 # What's Next On — Entertainment Discovery
 
 **Live website:** https://whatsnexton.com/  
